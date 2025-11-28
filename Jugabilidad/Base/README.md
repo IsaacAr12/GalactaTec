@@ -1,7 +1,7 @@
 
-# Parte de Daniel — Sprint 1 (US-11 y US-12)
+# Parte de Melanie — Sprint 1 (US-11 y US-12)
 
-Contenido listo, funcional y **autónomo** para validar tu parte sin tocar el código del equipo.
+Deberiamos cambiar eso ya que choca con algo que hicimos en el sprint 1
 
 ## Estructura
 ```
